@@ -6,3 +6,4 @@ env/
 *.h5
 *.log
 .DS_Store
+.venv/
